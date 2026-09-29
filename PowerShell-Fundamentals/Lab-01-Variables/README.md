@@ -31,8 +31,3 @@ Enabled: True
 
 Key Takeaway
 PowerShell variables can store identity-related information that can later be used for IAM automation.
-
-Then click **Commit changes...** and use:
-
-```text
-Add README for Lab 01
